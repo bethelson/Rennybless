@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        min-width: 400px;
+        @apply bg-slate-100;
+    }
+}
+
