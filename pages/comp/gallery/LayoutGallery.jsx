@@ -37,7 +37,7 @@ const imagesConstruction = [
         src: "/img/cons14.jpg"
     },
     {
-        alt: "Duplex under construction after decking",
+        alt: "Duplex under construction after decking Yaounde Cameroon",
         src: "/img/cons17.jpeg"
     },
     {
@@ -57,7 +57,7 @@ const imagesConstruction = [
         src: "/img/cons24.jpeg"
     },
     {
-        alt: "CEO at work-site side-view of duplex structure",
+        alt: "CEO at work-site side-view of duplex structure Bamenda Construction",
         src: "/img/cons25.jpeg"
     },
     {
@@ -65,8 +65,20 @@ const imagesConstruction = [
         src: "/img/cons26.jpeg"
     },
     {
-        alt: "Rounded wall building under construction",
+        alt: "Rounded wall building under construction Yaounde Construction",
         src: "/img/cons29.jpeg"
+    },
+    {
+        alt: "Road Construction Compacting of tar",
+        src: "/img/cons31.jpeg"
+    },
+    {
+        alt: "Over water brigde construction Rennyblessed Construction",
+        src: "/img/cons32.jpeg"
+    },
+    {
+        alt: "Bridge construction Bamenda Cameroon",
+        src: "/img/cons33.jpeg"
     }
 
 ];
@@ -171,6 +183,10 @@ const imagesDesign = [
     {
         alt: "Luxury two floor home design with fence and road side view",
         src: "/img/des21.jpg"
+    },
+    {
+        alt: "Luxury 3D model of a Duplex structure with fense and car parking white walls with black roof",
+        src: "/img/des22.jpeg"
     }
     
 

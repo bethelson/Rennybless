@@ -13,8 +13,8 @@ export default function Footer() {
             <div data-aos="fade-up" className="footer bg-[#002a30] pb-2">
                 <div className="flex place-content-center mb-10 ">
                     <div className="header xl:w-1/3 md:w-1/2 sm:w-1 text-center uppercase text-3xl font-mono font-bold">
-                        <p className="m-2 mx-16 py-2 bg-cyan-500 sm:py-1 sm:mx-2 text-black rounded">renny-blessed</p>
-                        <p className="text-xl mx-28 mb-3 -mt-5 py-2 bg-[#002a30] text-cyan-100 border-2 border-cyan-500 rounded">constructions</p>
+                        <p className="m-2 mx-16 py-2 bg-cyan-500 sm:py-1 sm:mx-2 text-black rounded">rennyblessed</p>
+                        <p className="text-xl mx-28 mb-3 -mt-5 py-2 bg-[#002a30] text-cyan-100 border-2 border-cyan-500 rounded">construction</p>
                     </div>
                 </div>
                 
@@ -25,7 +25,7 @@ export default function Footer() {
                         </div>
                         <div className="md:flex flex-row md:pl-4">
                             <div className="text-cyan-200 font-normal text-md text-center md:text-left md:pb-20 md:mr-48">
-                                <h2 data-aos="fade-up" className="mb-4">Constructions, Repair and Renovation.</h2>
+                                <h2 data-aos="fade-up" className="mb-4">Construction, Repair and Renovation.</h2>
                                 <h2 data-aos="fade-up" className="mb-4">Site Modeling</h2>
                                 <h2 data-aos="fade-up" className="mb-4">Architectural Services</h2>
                                 <h2 data-aos="fade-up" className="mb-4">Training of Technicians</h2>
@@ -113,7 +113,7 @@ export default function Footer() {
                       
             </div>
             <div data-aos="fadep-up" className="circle p-20 bg-blue-600 rounded-b-[100%] text-center text-cyan-100">
-                Copyright 2022 @ RennyBlessed Construction and Engineering Plc.
+                Copyright 2022 @ RennyBlessed Construction and Engineering Associates Plc.
             </div> 
         </div>
 

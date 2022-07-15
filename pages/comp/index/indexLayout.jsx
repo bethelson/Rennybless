@@ -42,7 +42,7 @@ export default function Index() {
                                 <div className="basic-2/3 md:border-4 border-2 border-[#002a30] text-center p-1 rounded-md md:rounded-xl w-[215px] md:w-[450px] mr-1 md:mt-10 mt-6 md:mr-32 md:mr-2">
                                     <h1 className="font-black text-2xl md:text-9xl font-mono md:tracking-tighter ">renny</h1>
                                     <h1 className="font-black text-2xl md:text-9xl font-mono md:tracking-tighter leading-[5px] md:leading-[60px]">blessed</h1>
-                                    <h1 className="text-normal md:text-2xl font-normal pt-3 md:pl-2 font-mono leading-[15px]">constructions</h1>
+                                    <h1 className="text-normal md:text-2xl font-normal pt-3 md:pl-2 font-mono leading-[15px]">construction</h1>
                                 </div>
                             </div>
                             <div className="w-[85%] mx-auto  text-black-500 text-center text-xs md:text-xl font-sans xl:ml-32 font-semibold md:font-semibold leading-[13px] mt-2 md:mt-14 md:mr-12 rounded-md md:rounded-xl py-1 md:p-4 bg-[#f2f2f2]">

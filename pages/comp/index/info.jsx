@@ -70,9 +70,9 @@ export default function Info () {
             <div className="xl:flex flex-row justify-content-center xl:ml-4 md:mr-4 mx-1 xl:ml-20 mb-4">
                 <div className=" basis-1/2  mx-auto text-xl md:text-2xl text-left md:text-justify md:px-4 md:px-12 mb-4 leading-relaxed">
                     <p>
-                        RennyBlessed construction and engineering Plc. is one of the leading construction and architectural companies in Cameroon. Located in Bamenda, Northwest Region of Cameroon, we offer<b><i> High Qaulity </i></b>
+                        RennyBlessed construction and engineering associates Plc. is one of the leading construction and architectural companies in Cameroon. Located in Bamenda, Northwest Region of Cameroon, we offer<b><i> High Qaulity </i></b>
                         output at the<b><i> best rates </i></b>for each job. This company is made of up young, energetic and highly skills engineers and technicians. 
-                        The following services and more are offered at RennyBlessed Constructions.
+                        The following services and more are offered at RennyBlessed Construction and Engineering Associates.
                     </p>
                     {images.map((image, index) => {
                         return (

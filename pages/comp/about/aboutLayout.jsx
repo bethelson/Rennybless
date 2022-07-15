@@ -89,7 +89,7 @@ export default function Layoutabout () {
                         </div>
                     </Link>
                 </div>
-                <p className="px-2"><span className="font-bold text-xl md:text-2xl">RennyBlessed Construction and Engineering Plc.</span>  is a private limited civil engineering company located in the town of Bamenda, Northwest region of Cameroon.
+                <p className="px-2"><span className="font-bold text-xl md:text-2xl">RennyBlessed Construction and Engineering Associates Plc.</span>  is a private limited civil engineering company located in the town of Bamenda, Northwest region of Cameroon.
                 This company has been operational since the year 2019 and has carried out so many projects in the field of civil engineering and architectural development. Headed by its founder and CEO Mr. NDONWI Rene,
                 a Civil engineer with more than 10years of working experience in the field of civil engineering in Cameroon. RennyBlessed construction is made up of highly skilled and well trained professionals. We offer the following services
                 </p>
@@ -97,7 +97,7 @@ export default function Layoutabout () {
                     <div className="basis-1/2">
                         <ul className="list-[circle] font-semibold leading-normal sm:leading-loose text-justify md:pr-12">
                             <li key="1">
-                                Constructions, Repair and Renovation.
+                                Construction, Repair and Renovation.
                             </li>
                             <li key="2">
                                 Consultancy services.
