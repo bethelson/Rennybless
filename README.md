@@ -1,1 +1,22 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# RennyBlessed Construction Website
+
+### Installation
+
+After cloning repo, do the following steps.
+1. npm install
+2. npm run dev 
+Run these two commands to test in dev mode.
+
+
+### Structure
+
+```
+Version Control
+|
+|--- master (Production Branch)
+|--- create dev branch and push any changes
+
+```
+
+	No Code should be pushed to master except reviewed DevOps.
+  
